@@ -23,8 +23,6 @@
 
 <!--START_SECTION:activity-->
 
-Other:
-- ⚒️ • My portfolio
 
 <!--END_SECTION:activity-->
 
