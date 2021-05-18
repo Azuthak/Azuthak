@@ -5,11 +5,10 @@
 ## My knowledges
 
 - ⚒️ Lua Just for fun!
-- ⚒️ Html / Css, I begin
 
 ### Connect with me:
 
-<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[discord] : Azuthak#9999
+<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[DISCORD] : Azuthak#3035
 
 <br />
 
