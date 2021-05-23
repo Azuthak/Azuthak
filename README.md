@@ -16,7 +16,7 @@
 - ⚒️ Lua Just for fun!
 
 ## Project
-I am currently working on StoryLife RP
+I am currently working for StoryLife RP
 (https://discord.gg/storylife)
 
 
