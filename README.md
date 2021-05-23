@@ -22,7 +22,6 @@ I am currently working for StoryLife RP
 
 ### Connect with me:
 
-<img align="left" alt="My discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Discord-Logo-Color.svg/682px-Discord-Logo-Color.svg.png" />[Discord] : Azuthak#3035
+<img align="left" alt="My discord" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Discord-Logo-Color.svg/682px-Discord-Logo-Color.svg.png" />: Azuthak#3035
 
 <br />
-
