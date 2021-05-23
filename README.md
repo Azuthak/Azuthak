@@ -5,8 +5,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Azuthak&count_private=true&show_icons=true?theme=buefy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azuthak)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My knowledges
 
 - ⚒️ Lua Just for fun!
