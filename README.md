@@ -22,7 +22,7 @@ I am currently working for StoryLife RP
 
 ### Connect with me:
 
-<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord] : Azuthak#3035
+<img align="left" alt="My discord" width="22px" src="https://logo-marque.com/wp-content/uploads/2020/11/Discord-Embleme.png" />[Discord] : Azuthak#3035
 
 <br />
 
