@@ -6,9 +6,14 @@
 
 - ⚒️ Lua Just for fun!
 
+## Project
+I am currently working on StoryLife RP
+(https://discord.gg/storylife)
+
+
 ### Connect with me:
 
-<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[DISCORD] : Azuthak#3035
+<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord] : Azuthak#3035
 
 <br />
 
