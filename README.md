@@ -18,12 +18,12 @@
 - ⚒️ Lua Just for fun!
 
 ## Project
-I am currently working for StoryLife RP
-(https://discord.gg/storylife)
+I am currently working for DarkCity.
+(https://discord.gg/t5usXu68N8)
 
 
 ### Connect with me:
 
-Azuthak#3035
+Maχime#9999
 
 <br />
